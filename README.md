@@ -23,7 +23,7 @@ nano nginx-proxy-manager-install.sh
 ```
 
 Paste the following content into the file:  
-👉 [See nginx-proxy-manager-install.sh script](#-script-install-npmsh)
+👉 [See nginx-proxy-manager-install.sh script](#nginx-proxy-manager-install.sh)
 
 Save and exit (`CTRL+O`, `Enter`, `CTRL+X`).
 
